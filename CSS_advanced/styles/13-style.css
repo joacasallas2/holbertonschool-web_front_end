@@ -61,7 +61,6 @@ a[href]:hover {
 }
 
 a[href]:active {
-    text-decoration: underline;
     background-color: color-light-grey;
 }
 
